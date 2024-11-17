@@ -1,5 +1,7 @@
 # Calculator
 
+[https://artjoms-doilnicins.github.io/calculator/](https://artjoms-doilnicins.github.io/calculator/)
+
 This is a simple calculator built with HTML, CSS, and JavaScript. The project demonstrates basic DOM manipulation, event handling, and mathematical expression evaluation.
 
 ## Description
